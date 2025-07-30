@@ -28,12 +28,12 @@ My projects are focused on:
 
 ## 📁 Featured Projects
 
-### 📉 Telecom Churn Dashboard  
+### 📉 Telecom Customer Churn Analysis  
 Churn + Revenue risk model for 7,000+ customers  
 → \$3.6M lost revenue uncovered | Segment-targeted retention strategies  
 [🔗 View Project](https://github.com/Pratiyushhh/Power-BI/tree/main/Telecom%20Customer%20Churn%20Analysis)
 
-### 💼 Global Data Professionals  
+### 💼 Global Data Professionals Insights  
 Salary, satisfaction, and job-switch trends from 600+ data pros  
 → Gender parity, remote work drivers, PhD salary advantage  
 [🔗 View Project](https://github.com/Pratiyushhh/Power-BI/tree/main/Global%20Data%20Professionals%20-%20Salary,%20Satisfaction%20&%20Career%20Trends)
