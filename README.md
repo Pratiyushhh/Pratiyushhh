@@ -110,7 +110,7 @@ I'm a **strategic data analyst and business intelligence consultant** with a pro
 - **Market Intelligence:** Programming language premiums (Java 132% above baseline) informing skills investment
 - **Executive Communication:** Professional presentation quality with strategic recommendations and implementation guidance
 
-**📥 Dataset:** [AlexTheAnalyst Global Survey](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx) | **📄** [Workforce Intelligence Report](https://github.com/Pratiyushhh/Global-Data-Professionals-Insights/blob/main/README.md)
+**📥 Dataset:** [AlexTheAnalyst (GitHub)](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx) | **📄** [Workforce Intelligence Report](https://github.com/Pratiyushhh/Global-Data-Professionals-Insights/blob/main/README.md)
 
 ---
 
