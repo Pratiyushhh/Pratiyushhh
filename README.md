@@ -55,7 +55,7 @@ I'm a **strategic data analyst and business intelligence consultant** with a pro
 - **Professional Visualization:** Executive-grade charts designed for C-level stakeholder presentation
 - **Business Narrative:** Complete strategic consulting framework from problem definition to implementation
 
-**📥 Dataset:** [Divvy Trip Data (AWS S3)](https://divvy-tripdata.s3.amazonaws.com/index.html) | **📄** [Complete Executive Analysis](./Capstone-Cyclistic-Bike-Share-Analysis/README.md)
+**📥 Dataset:** [Divvy Trip Data (AWS S3)](https://divvy-tripdata.s3.amazonaws.com/index.html) | **📄** [Complete Executive Analysis](https://github.com/Pratiyushhh/Capstone-Cyclistic-Bike-Share-Analysis/blob/main/README.md)
 
 ---
 
@@ -81,7 +81,7 @@ I'm a **strategic data analyst and business intelligence consultant** with a pro
 - **Executive Dashboard Design:** Multi-level insights from C-suite overview to operational drill-down capabilities
 - **Strategic Segmentation:** Geographic clustering, demographic risk patterns, service adoption correlation
 
-**📥 Dataset:** [IBM Cognos Analytics via Maven](https://maven-datasets.s3.amazonaws.com/Telecom+Customer+Churn/Telecom+Customer+Churn.zip) | **📄** [Strategic Intelligence Report](./Telecom%20Customer%20Churn%20Analysis/README.md)
+**📥 Dataset:** [IBM Cognos Analytics via Maven](https://maven-datasets.s3.amazonaws.com/Telecom+Customer+Churn/Telecom+Customer+Churn.zip) | **📄** [Strategic Intelligence Report](https://github.com/Pratiyushhh/Telecom-Customer-Churn-Analysis/blob/main/README.md)
 
 ---
 
@@ -110,7 +110,7 @@ I'm a **strategic data analyst and business intelligence consultant** with a pro
 - **Market Intelligence:** Programming language premiums (Java 132% above baseline) informing skills investment
 - **Executive Communication:** Professional presentation quality with strategic recommendations and implementation guidance
 
-**📥 Dataset:** [AlexTheAnalyst Global Survey](https://github.com/AlexTheAnalyst) | **📄** [Workforce Intelligence Report](./Global%20Data%20Professionals%20-%20Salary,%20Satisfaction%20&%20Career%20Trends/README.md)
+**📥 Dataset:** [AlexTheAnalyst Global Survey](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx) | **📄** [Workforce Intelligence Report](https://github.com/Pratiyushhh/Global-Data-Professionals-Insights/blob/main/README.md)
 
 ---
 
