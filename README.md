@@ -1,4 +1,4 @@
-# 📊 Strategic Data Analytics Portfolio – Pratiyush Kumar
+# 📊 Data Analytics Portfolio – Pratiyush Kumar
 ## Transforming Data Into Executive-Ready Business Intelligence
 
 Welcome to my portfolio — a curated collection of **strategic data analysis and business intelligence projects** that convert complex datasets into **executive decision support**, **measurable business outcomes**, and **competitive market advantage**.
